@@ -1,0 +1,5 @@
+col1,col2,col3,col4
+a,1,do,TRUE
+b,2,,FALSE
+c,3,re,TRUE
+d,4,mi,TRUE
